@@ -19,7 +19,7 @@
 
 
 - 🐍 **Programming**: Getting better at python and willing to learn C++
-- ⚡ I hope some day i become a Software Engineer
+- ⚡ I hope some day I become a **Software Engineer**
 
 
 ## 💻 Projects: 
@@ -30,9 +30,9 @@
 
 ## 📎 Links: 
 
-- [Matrix](https://matrix.to/#/@lxbx:matrix.org)
-- [GitHub](https://github.com/rogerrfs)
-- [Lichess](https://lichess.org/@/potato_loli)
+- 💬 [Matrix](https://matrix.to/#/@lxbx:matrix.org)
+- 🔌 [GitHub](https://github.com/rogerrfs)
+- ♟ [Lichess](https://lichess.org/@/potato_loli)
 
 ## 🏆 Profile Statistics:
 
