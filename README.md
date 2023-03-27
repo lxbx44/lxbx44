@@ -6,8 +6,8 @@
 
 ---------------------------------------------------------------------------------------------------
 
-- 💻 I'm a Student & A self-learner programmer
-- 📖 Future Business Analytics student
+- 💻 I'm a Student & a self-learner programmer
+- 📖 Studying IB Diploma
 
 ---------------------------------------------------------------------------------------------------
 
