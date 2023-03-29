@@ -8,6 +8,7 @@
 
 - 💻 Student & Self-learner programmer
 - 📖 Studying IB Diploma
+- 💠[My WebSite](www.fibla.es)
 
 ---------------------------------------------------------------------------------------------------
 
@@ -16,9 +17,10 @@
 - 📍 **Location**: Catalonia, Spain 
 - 📕 **Currently Studying**: International Baccalaureate (IB Diploma)
 - 📖 **Future Studies**: I'll study Business Analytics in Amsterdam
+- 🅰 **Languages**: English, Catalan, Spanish, French and learning Japanese
 
 
-- 🐍 **Programming**: Getting better at python and willing to learn C++
+- 🐍 **Programming**: `Python`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `LaTeX`, `shell`, a bit of `batch` and willing to learn `C++`
 - ⚡ I hope some day I become a **Software Engineer**
 
 
@@ -26,7 +28,8 @@
 
 - [Password Manager](https://github.com/rogerrfs/password_manager)
 - [Number Factorizer](https://github.com/rogerrfs/EzFAC70R)
-- [Website similar to Discord](https://github.com/rogerrfs/discord)
+- [Layout of a messaging app](https://github.com/rogerrfs/messg_app)
+- [My personal WebSite](https://github.com/rogerrfs/WebSite_RogerFibla)
 
 ## 📎 Links: 
 
