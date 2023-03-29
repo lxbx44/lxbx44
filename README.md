@@ -28,7 +28,6 @@
 
 - [Password Manager](https://github.com/rogerrfs/password_manager)
 - [Number Factorizer](https://github.com/rogerrfs/EzFAC70R)
-- [Layout of a messaging app](https://github.com/rogerrfs/messg_app)
 - [My personal WebSite](https://github.com/rogerrfs/WebSite_RogerFibla)
 
 ## 📎 Links: 
