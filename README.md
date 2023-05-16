@@ -1,5 +1,5 @@
 
-# Heey y'all!! It's [Roger Fibla](http://www.fibla.es) 👋
+# Heey y'all!! It's Aria 👋
 
 ![img not found](https://github-readme-stats.vercel.app/api?username=rogerrfs&show_icons=true&include_all_commits=true&theme=nord&cache_seconds=3200&hide_border=true)
 ![img not found](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrfs&layout=compact&theme=nord&hide_border=true)
@@ -16,13 +16,11 @@
 
 - 📍 **Location**: Catalonia, Spain 
 - 📕 **Currently Studying**: International Baccalaureate (IB Diploma)
-- 📖 **Future Studies**: I'll study Business Analytics in Amsterdam
+- 📖 **Future Studies**: I'll study Informatics engineering
 - 🅰 **Languages**: English, Catalan, Spanish, French and learning Japanese
 
 
 - 🐍 **Programming**: `Python`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `LaTeX`, `shell`, a bit of `batch` and willing to learn `C++`
-- ⚡ I hope some day I become a **Software Engineer**
-
 
 ## 💻 Projects: 
 
