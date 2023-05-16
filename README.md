@@ -1,8 +1,8 @@
 
 # Heey y'all!! It's Aria 👋
 
-![img not found](https://github-readme-stats.vercel.app/api?username=rogerrfs&show_icons=true&include_all_commits=true&theme=nord&cache_seconds=3200&hide_border=true)
-![img not found](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrfs&layout=compact&theme=nord&hide_border=true)
+![img not found](https://github-readme-stats.vercel.app/api?username=lxbx44&show_icons=true&include_all_commits=true&theme=nord&cache_seconds=3200&hide_border=true)
+![img not found](https://github-readme-stats.vercel.app/api/top-langs/?username=lxbx44&layout=compact&theme=nord&hide_border=true)
 
 ---------------------------------------------------------------------------------------------------
 
@@ -24,15 +24,15 @@
 
 ## 💻 Projects: 
 
-- [Password Manager](https://github.com/rogerrfs/password_manager)
-- [Number Factorizer](https://github.com/rogerrfs/EzFAC70R)
-- [My personal WebSite](https://github.com/rogerrfs/WebSite_RogerFibla)
-- [Mp3 Downloader](https://github.com/rogerrfs/mp3_downloader)
+- [Password Manager](https://github.com/lxbx44/password_manager)
+- [Number Factorizer](https://github.com/lxbx44/EzFAC70R)
+- [My personal WebSite](https://github.com/lxbx44/website)
+- [Mp3 Downloader](https://github.com/lxbx44/mp3_downloader)
 
 ## 📎 Links: 
 
 - 💬 [Matrix](https://matrix.to/#/@lxbx:matrix.org)
-- 🔌 [GitHub](https://github.com/rogerrfs)
+- 🔌 [GitHub](https://github.com/lxbx44)
 - ♟ [Lichess](https://lichess.org/@/potato_loli)
 
 ## 🏆 Profile Statistics:
