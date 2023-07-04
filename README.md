@@ -16,24 +16,26 @@
 
 - 📍 **Location**: Catalonia, Spain 
 - 📕 **Currently Studying**: International Baccalaureate (IB Diploma)
-- 📖 **Future Studies**: I'll study Informatics engineering
-- 🅰 **Languages**: English, Catalan, Spanish, French and learning Japanese
+- 📖 **Future Studies**: Informatics engineering
+- 🅰 **Languages**: English (C1), Catalan (Fluent), Spanish (Fluent), French (B1) and Japanese (N5 not official)
 
 
-- 🐍 **Programming**: `Python`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `LaTeX`, `shell`, a bit of `batch` and willing to learn `C++`
+- 🐍 **Programming**: `Python`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `LaTeX`, `shell`, `batch` and learning `Rust`
 
 ## 💻 Projects: 
 
 - [Password Manager](https://github.com/lxbx44/password_manager)
 - [Number Factorizer](https://github.com/lxbx44/EzFAC70R)
+- [Flyser](https://github.com/lxbx44/flyser)
+- [Arifetch](https://github.com/lxbx44/arifetch)
 - [My personal WebSite](https://github.com/lxbx44/website)
-- [Mp3 Downloader](https://github.com/lxbx44/mp3_downloader)
+- [My dotfiles](https://github.com/lxbx44/dotfiles)
 
 ## 📎 Links: 
 
 - 💬 [Matrix](https://matrix.to/#/@lxbx:matrix.org)
 - 🔌 [GitHub](https://github.com/lxbx44)
-- ♟ [Lichess](https://lichess.org/@/potato_loli)
+
 
 ## 🏆 Profile Statistics:
 
