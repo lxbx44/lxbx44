@@ -7,20 +7,20 @@
 ---------------------------------------------------------------------------------------------------
 
 - 💻 Student & Self-learner programmer
-- 📖 Studying IB Diploma
-- 💠[My WebSite](http://www.fibla.es/)
+- 📖 Studying Computer Science 
+- 💠[My WebSite](https://ariadev.me/)
 
 ---------------------------------------------------------------------------------------------------
 
 ## 😊 About me :
 
 - 📍 **Location**: Catalonia, Spain 
-- 📕 **Currently Studying**: International Baccalaureate (IB Diploma)
-- 📖 **Future Studies**: Informatics engineering
+- 📕 **Currently Studying**: Computer Science ([URV](https://www.urv.cat/en/)
+- 📖 **Future Studies**: International Baccalaureate (IB Diploma)
 - 🅰 **Languages**: English (C1), Catalan (Fluent), Spanish (Fluent), French (B1) and Japanese (N5 not official)
 
 
-- 🐍 **Programming**: `Python`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `LaTeX`, `shell`, `batch` and learning `Rust`
+- 🐍 **Programming**: `Python`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `LaTeX`, `shell` and learning `Rust`
 
 ## 💻 Projects: 
 
@@ -28,7 +28,7 @@
 - [Number Factorizer](https://github.com/lxbx44/EzFAC70R)
 - [Flyser](https://github.com/lxbx44/flyser)
 - [Arifetch](https://github.com/lxbx44/arifetch)
-- [My personal WebSite](https://github.com/lxbx44/website)
+- [My personal WebSite](https://github.com/lxbx44/lxbx44.github.io)
 - [My dotfiles](https://github.com/lxbx44/dotfiles)
 
 ## 📎 Links: 
