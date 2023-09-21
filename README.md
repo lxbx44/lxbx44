@@ -16,7 +16,7 @@
 
 - 📍 **Location**: Catalonia, Spain 
 - 📕 **Currently Studying**: Computer Science ([URV](https://www.urv.cat/en/))
-- 📖 **Future Studies**: International Baccalaureate (IB Diploma)
+- 📖 **Past Studies**: International Baccalaureate (IB Diploma)
 - 🅰 **Languages**: English (C1), Catalan (Fluent), Spanish (Fluent), French (B1) and Japanese (N5 not official)
 
 
